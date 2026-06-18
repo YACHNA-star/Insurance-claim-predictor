@@ -1,6 +1,5 @@
-# Insurance-claim-predictor
+# 🏥 Insurance-claim-predictor
 Predicting high-cost health insurance claims and exact claim amounts using statistical testing, machine learning (XGBoost, Random Forest), deep learning (ANN), and SHAP explainability.
-# 🏥 Health Insurance Claim Analytics & Predictive Modeling
 
 **An end-to-end data science project for predicting medical claim costs and identifying high-risk members using patient demographics.**
 
