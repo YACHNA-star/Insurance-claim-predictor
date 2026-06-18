@@ -128,4 +128,4 @@ Used SHAP to explain the XGBoost model.
 ### Steps
 1. **Clone the repository**
    ```bash
-   git clone 
+   git clone https://github.com/YACHNA-star/Insurance-claim-predictor.git
